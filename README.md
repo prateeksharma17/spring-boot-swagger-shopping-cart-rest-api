@@ -5,7 +5,7 @@ Application : Shopping Cart Rest API
 
 Application Entry Point : src/main/java/application/ShoppingCartApplication.java as this contains the main() method.
 
-Swagger Home Page : http://localhost:8080/shoppingcart/swagger-ui.html  (Assuming application is run in localhost)
+Swagger Home Page (my VPS) : http://31.220.58.70:7070/shoppingcart/swagger-ui.html  
 
 List of Tools Used :
 
@@ -16,7 +16,7 @@ List of Tools Used :
 5) Database       :   H2 Database
 6) Testing        :   REST-Assured with JUnit
 
-All the API Endpoints can be checked at above provided Swagger link once the src/main/java/application/ShoppingCartApplication.java file is run (assuming on localhost). A subset of the endpoints is as shown in the below image. For the full list of endpoints, navigate to swagger url (http://localhost:8080/shoppingcart/swagger-ui.html)
+All the API Endpoints can be checked at above provided Swagger link once the src/main/java/application/ShoppingCartApplication.java file is run. A subset of the endpoints is as shown in the below image. For the full list of endpoints, navigate to swagger url (http://31.220.58.70:7070/shoppingcart/swagger-ui.html)
 
 
 
