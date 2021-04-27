@@ -1,0 +1,5 @@
+projectKey=spring-boot-shopping-cart:spring-boot-shopping-cart
+serverUrl=http://31.220.58.70:9000
+dashboardUrl=http://31.220.58.70:9000/dashboard/index/spring-boot-shopping-cart:spring-boot-shopping-cart
+ceTaskId=AXkSPjPGktV79Bio7ofb
+ceTaskUrl=http://31.220.58.70:9000/api/ce/task?id=AXkSPjPGktV79Bio7ofb
